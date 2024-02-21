@@ -1,0 +1,28 @@
+C:\Users\USER\source\repos\Kazoku Sushi Restaurant Application\Kazoku Sushi Restaurant Application\bin\Debug\Kazoku Sushi Restaurant Application.exe.config
+C:\Users\USER\source\repos\Kazoku Sushi Restaurant Application\Kazoku Sushi Restaurant Application\bin\Debug\Kazoku Sushi Restaurant Application.exe
+C:\Users\USER\source\repos\Kazoku Sushi Restaurant Application\Kazoku Sushi Restaurant Application\bin\Debug\Kazoku Sushi Restaurant Application.pdb
+C:\Users\USER\source\repos\Kazoku Sushi Restaurant Application\Kazoku Sushi Restaurant Application\bin\Debug\Kazoku Sushi Restaurant Application.xml
+C:\Users\USER\source\repos\Kazoku Sushi Restaurant Application\Kazoku Sushi Restaurant Application\obj\Debug\Kazoku Sushi Restaurant Reservation Application.vbproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Kazoku Sushi Restaurant Application\Kazoku Sushi Restaurant Application\obj\Debug\Kazoku Sushi Restaurant Reservation Application.vbproj.SuggestedBindingRedirects.cache
+C:\Users\USER\source\repos\Kazoku Sushi Restaurant Application\Kazoku Sushi Restaurant Application\obj\Debug\Kazoku_Sushi_Restaurant_Application.Category.resources
+C:\Users\USER\source\repos\Kazoku Sushi Restaurant Application\Kazoku Sushi Restaurant Application\obj\Debug\Kazoku_Sushi_Restaurant_Application.StartPage.resources
+C:\Users\USER\source\repos\Kazoku Sushi Restaurant Application\Kazoku Sushi Restaurant Application\obj\Debug\Kazoku_Sushi_Restaurant_Application.Resources.resources
+C:\Users\USER\source\repos\Kazoku Sushi Restaurant Application\Kazoku Sushi Restaurant Application\obj\Debug\Kazoku Sushi Restaurant Reservation Application.vbproj.GenerateResource.cache
+C:\Users\USER\source\repos\Kazoku Sushi Restaurant Application\Kazoku Sushi Restaurant Application\obj\Debug\Kazoku Sushi Restaurant Reservation Application.vbproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Kazoku Sushi Restaurant Application\Kazoku Sushi Restaurant Application\obj\Debug\Kazoku Sushi Restaurant Application.exe
+C:\Users\USER\source\repos\Kazoku Sushi Restaurant Application\Kazoku Sushi Restaurant Application\obj\Debug\Kazoku Sushi Restaurant Application.xml
+C:\Users\USER\source\repos\Kazoku Sushi Restaurant Application\Kazoku Sushi Restaurant Application\obj\Debug\Kazoku Sushi Restaurant Application.pdb
+C:\Users\USER\source\repos\Kazoku Sushi Restaurant Application\Kazoku Sushi Restaurant Application\obj\Debug\Kazoku_Sushi_Restaurant_Application.SetMeals.resources
+C:\Users\USER\source\repos\Kazoku Sushi Restaurant Application\Kazoku Sushi Restaurant Application\obj\Debug\Kazoku_Sushi_Restaurant_Application.EatOptionMenu.resources
+C:\Users\USER\source\repos\Kazoku Sushi Restaurant Application\Kazoku Sushi Restaurant Application\obj\Debug\Kazoku_Sushi_Restaurant_Application.Payment.resources
+C:\Users\USER\source\repos\Kazoku Sushi Restaurant Application\Kazoku Sushi Restaurant Application\obj\Debug\Kazoku_Sushi_Restaurant_Application.BookingDate.resources
+C:\Users\USER\source\repos\Kazoku Sushi Restaurant Application\Kazoku Sushi Restaurant Application\obj\Debug\Kazoku_Sushi_Restaurant_Application.AlaCarte.resources
+C:\Users\USER\source\repos\Kazoku Sushi Restaurant Application\Kazoku Sushi Restaurant Application\obj\Debug\Kazoku_Sushi_Restaurant_Application.Sushi.resources
+C:\Users\USER\source\repos\Kazoku Sushi Restaurant Application\Kazoku Sushi Restaurant Application\obj\Debug\Kazoku_Sushi_Restaurant_Application.Noodles.resources
+C:\Users\USER\source\repos\Kazoku Sushi Restaurant Application\Kazoku Sushi Restaurant Application\obj\Debug\Kazoku_Sushi_Restaurant_Application.Dessert.resources
+C:\Users\USER\source\repos\Kazoku Sushi Restaurant Application\Kazoku Sushi Restaurant Application\obj\Debug\Kazoku_Sushi_Restaurant_Application.Donburi.resources
+C:\Users\USER\source\repos\Kazoku Sushi Restaurant Application\Kazoku Sushi Restaurant Application\obj\Debug\Kazoku_Sushi_Restaurant_Application.Beverage.resources
+C:\Users\USER\source\repos\Kazoku Sushi Restaurant Application\Kazoku Sushi Restaurant Application\obj\Debug\Kazoku_Sushi_Restaurant_Application.SplashScreenSushi.resources
+C:\Users\USER\source\repos\Kazoku Sushi Restaurant Application\Kazoku Sushi Restaurant Application\bin\Debug\Login.mdf
+C:\Users\USER\source\repos\Kazoku Sushi Restaurant Application\Kazoku Sushi Restaurant Application\bin\Debug\Login_log.ldf
+C:\Users\USER\source\repos\Kazoku Sushi Restaurant Application\Kazoku Sushi Restaurant Application\obj\Debug\Kazoku_Sushi_Restaurant_Application.Login.resources
